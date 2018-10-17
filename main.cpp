@@ -10,6 +10,5 @@ int main()
     for (auto elem : numbers)
         std::cout << elem << std::endl;
 
-    std::cout << "Hello!!!" << std::endl;
     return 0;
 }
