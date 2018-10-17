@@ -16,5 +16,9 @@ int main()
     for (auto elem : numbers)
         sum += elem;
 
+    std::cout << "Sum = " << sum << std::endl;
+
+    std::cout << "some text" << std::endl;
+
     return 0;
 }
